@@ -1,0 +1,10 @@
+F:\Desktop\Graphics6\Graphics6\bin\Debug\Graphics6.exe.config
+F:\Desktop\Graphics6\Graphics6\bin\Debug\Graphics6.exe
+F:\Desktop\Graphics6\Graphics6\bin\Debug\Graphics6.pdb
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.csprojAssemblyReference.cache
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.Form1.resources
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.Properties.Resources.resources
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.csproj.GenerateResource.cache
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.csproj.CoreCompileInputs.cache
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.exe
+F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.pdb
