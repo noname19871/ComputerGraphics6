@@ -8,3 +8,12 @@ F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.csproj.GenerateResource.cache
 F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.csproj.CoreCompileInputs.cache
 F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.exe
 F:\Desktop\Graphics6\Graphics6\obj\Debug\Graphics6.pdb
+D:\_Desktop\ComputerGraphics6\Graphics6\bin\Debug\Graphics6.exe.config
+D:\_Desktop\ComputerGraphics6\Graphics6\bin\Debug\Graphics6.exe
+D:\_Desktop\ComputerGraphics6\Graphics6\bin\Debug\Graphics6.pdb
+D:\_Desktop\ComputerGraphics6\Graphics6\obj\Debug\Graphics6.csprojResolveAssemblyReference.cache
+D:\_Desktop\ComputerGraphics6\Graphics6\obj\Debug\Graphics6.Form1.resources
+D:\_Desktop\ComputerGraphics6\Graphics6\obj\Debug\Graphics6.Properties.Resources.resources
+D:\_Desktop\ComputerGraphics6\Graphics6\obj\Debug\Graphics6.csproj.GenerateResource.Cache
+D:\_Desktop\ComputerGraphics6\Graphics6\obj\Debug\Graphics6.exe
+D:\_Desktop\ComputerGraphics6\Graphics6\obj\Debug\Graphics6.pdb

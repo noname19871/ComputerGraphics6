@@ -150,7 +150,7 @@ namespace Graphics6
             OrthographicBox.Image = orthographic_bmp;
 
             //Инициализируем ComboBox для отображения проекций
-            PerspectiveComboBox.SelectedItem = PerspectiveComboBox.Items[0];
+            PerspectiveComboBox.SelectedItem = PerspectiveComboBox.Items[1];
             OrthographicComboBox.SelectedItem = OrthographicComboBox.Items[0];
             PrimitiveComboBox.SelectedItem = PrimitiveComboBox.Items[0];
             ReflectionComboBox.SelectedItem = ReflectionComboBox.Items[0];
@@ -215,7 +215,7 @@ namespace Graphics6
         //Отражение
         private void Reflect()
         {
-            switch(ReflectionComboBox.SelectedItem)
+            switch(ReflectionComboBox.SelectedItem.ToString())
             {
                 case "Отражение по X":
                     {
